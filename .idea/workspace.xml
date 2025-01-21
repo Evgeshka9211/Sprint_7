@@ -1,31 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf117d57-c180-4e4d-b308-f9aa9fc3b355" name="Changes" comment="" />
+    <list default="true" id="cf117d57-c180-4e4d-b308-f9aa9fc3b355" name="Changes" comment="first_commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/003dce3a-a0ab-4835-b81e-d65381efd524-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/0b457d67-65f4-4608-b02e-570834549147-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/11d173b0-56ee-4141-a630-706f58ee4f0a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/18dea81e-4533-4739-bb97-8007ba2c6bf1-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/1cfb0110-23bf-47d4-92a9-ff3e4f155aee-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/1f3fd8ec-c65a-4713-b3fc-74ea3ad17ada-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/234ee954-887c-4bb3-9fbc-62a23e837db2-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/26e136bb-214f-440d-9de3-381fa64d6dd9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/4bd0656d-ba3b-4c0f-a418-fdd861c2fa98-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/4f13a04e-59b8-4207-a77b-3b62ea9c11f7-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/5281d0e7-511c-41d7-aa96-64c5fbb7c8a8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/5847f96a-d660-4d9a-a46f-464fddf8330e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/59ae2931-dcfb-4789-ae3b-03536c56dc68-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/5d25566a-6c66-419e-9bc2-2521bd5f9d12-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/62056528-49ca-44e3-b70c-5c2b3d343469-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/69b4dd49-b0d2-4062-9b49-f87bec7449ad-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/70ed8343-850a-42ae-af6f-8d8fc459c967-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/91fa9a06-7481-4e7f-bcda-f91f4a659344-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/a22c0f24-41da-4186-b133-ec7716b77f2a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/a943a011-c6dc-412a-8f30-ebda77e3a522-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/b0fcf214-6b8c-438c-be60-5bd87f654c4c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/b15a6d92-bb88-4292-aadc-e541b3cad5fe-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/b4ccb41c-db1f-4ae8-a16b-d1869294936f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/bcfb1015-4fe8-4792-add7-c5ac0909bd1d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/e72ab24e-9b2f-4157-bedb-926353f8d830-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure_results/f95b09d6-9ae1-4cbe-a004-b2a8e25efd29-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/scooter_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_create_order.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_create_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_courier.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_courier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Evgeshka9211&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Evgeshka9211/Sprint_7.git&quot;,
+    &quot;accountId&quot;: &quot;ebdde946-1e19-4b03-9acb-0b4cde9b91e8&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tests/test_create_order.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2rnlD4ddMKvmC9co4QKpJaaTBVh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in test_create_order.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_get_order_list.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_login_courier.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.helper.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scooter_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_create_order.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;#1 on develop&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,6 +113,46 @@
       <option name="presentableId" value="Default" />
       <updated>1737202598760</updated>
     </task>
+    <task id="LOCAL-00001" summary="first_commit">
+      <option name="closed" value="true" />
+      <created>1737202931540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737202931540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="30dda5b8-cdba-4b71-9d75-2e2275db0065" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="30dda5b8-cdba-4b71-9d75-2e2275db0065">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first_commit" />
   </component>
 </project>
