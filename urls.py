@@ -5,3 +5,4 @@ COURIER_DELETE = '/api/v1/courier/'
 
 ORDER_CREATE = '/api/v1/orders'
 ORDER_LIST = '/api/v1/orders'
+ORDER_CANCEL = '/api/v1/orders/cancel'

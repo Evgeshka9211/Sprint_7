@@ -7,7 +7,7 @@ import requests
 
 @allure.step("Создание шаблонного курьера")
 @pytest.fixture(scope='function')
-def default_courier():g
+def default_courier():
     body = helper.create_courier()
     courier_response = scooter_api.create_courier(body)
     login_body = body.copy()

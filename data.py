@@ -12,7 +12,7 @@ class TestDataCreatingOrder:
     }
 
 class ErrorMessages:
-    ERROR_NAME_USED_ALREADY = "Учетная запись с таким именем уже существует"
-    ERROR_EXISTS_REQUIRED_REGISTER_DATA = "Отсутствуют обязательные поля для регистрации"
+    ERROR_NAME_USED_ALREADY = "Этот логин уже используется"
+    ERROR_EXISTS_REQUIRED_REGISTER_DATA = "Недостаточно данных для создания учетной записи"
     ERROR_DATA_NOT_FOUND = "Учетная запись не найдена"
-    ERROR_EXISTS_REQUIRED_LOGIN_DATA = "Отсутствуют обязательные поля для авторизации"
+    ERROR_EXISTS_REQUIRED_LOGIN_DATA = "Недостаточно данных для входа"

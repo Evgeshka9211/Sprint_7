@@ -13,7 +13,6 @@ class TestLoginCourier:
         courier_login = requests.post(urls.BASE_URL + urls.COURIER_LOGIN, json=courier_body_dict)
         assert courier_login.status_code == 200 and courier_login.json()["id"] is not None
 
-
     @allure.title("Авторизация курьера. Ошибка. Неверный login.")
     def test_fail_with_wrong_login(self, default_courier):
         default_courier_body = default_courier.request.body
